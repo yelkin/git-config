@@ -8,5 +8,4 @@ git config --global color.ui "auto"
 git config --global alias.graph "log --graph" 
 git config --global alias.oneline "log --graph --oneline"
 git config --global alias.list "show --pretty=format: --name-only"
-git config --global url.ssh://git@mastergit.ideco/.insteadof mg:
 git config --global log.decorate "full"
